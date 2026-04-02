@@ -75,7 +75,7 @@ outlierTest(modele_log)
 # La valeur-p de Bonferonni du test effectué est 0.0089 < 0.05, alors on rejette l'hypothèse nulle et
 # on confirme à 95% que la 50e donnée (PALM BEACH) est toujours une valeure aberrante après la transformation des données.
 
-# On pourrait conclure en disant que la transformation des données a permis de réduire l'effet de la valeur aberrante sur le graphique, mais pas statistiquement.
+# On pourrait conclure en disant que la transformation des données a permis de réduire l'effet visuel de la valeur aberrante sur le graphique, mais pas statistiquement.
 
 
 
