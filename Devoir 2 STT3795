@@ -247,7 +247,7 @@
         "from google.colab import files\n",
         "from scipy.io import loadmat"
       ],
-      "execution_count": 14,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -308,7 +308,7 @@
         "\n",
         "\n"
       ],
-      "execution_count": 41,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -927,7 +927,7 @@
         },
         "outputId": "7492f635-a24e-41a8-bcdb-2d9ec94a12bb"
       },
-      "execution_count": 15,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1188,7 +1188,7 @@
         },
         "outputId": "0ded8db8-b7df-4dc0-cb9b-aaab458e5e68"
       },
-      "execution_count": 42,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1216,9 +1216,7 @@
       "metadata": {
         "id": "96X9RF9QIGhr"
       },
-      "source": [
-        "# Pour cet exercice, la rédaction d'un script est fortement recommandé, mais pas obligatoire."
-      ],
+      "source": [],
       "execution_count": null,
       "outputs": []
     },
@@ -1246,7 +1244,7 @@
         "from scipy.spatial.distance import squareform\n",
         "from google.colab import files"
       ],
-      "execution_count": 43,
+      "execution_count": null,
       "outputs": []
     },
     {
@@ -1264,7 +1262,7 @@
         "distances = pd.read_csv(io.BytesIO(uploaded['probs.csv']), sep=';', header=None)\n",
         "\n"
       ],
-      "execution_count": 44,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -1534,7 +1532,7 @@
         "\n",
         "\n"
       ],
-      "execution_count": 45,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
